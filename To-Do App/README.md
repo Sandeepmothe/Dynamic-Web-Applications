@@ -1,28 +1,29 @@
 # 📝 To-Do List Web App
 
-A simple and elegant To-Do List web application built with HTML, CSS, and JavaScript. This app allows users to add, delete, mark tasks as completed, undo deletions, and save tasks using `localStorage`.
+A simple and clean todo list application built with HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
-- Add new tasks
-- Delete tasks
-- Mark tasks as completed (with strikethrough)
-- Save tasks locally (persist across page reloads)
-- Undo deleted tasks
-- Reset task list
+- Add, delete, mark tasks as complete
+- Save tasks in local storage
+- Undo delete
+- Reset all tasks
+  
+
+## :link:Web Page
+
+![Click Here](https://sandeepmothe.github.io/Dynamic-Web-Applications/To-Do%20App/To-Do-List.html)
 
 ## 📽️ Demo GIF
 
-
-
-
+![Todo App Demo](https://sandeepmothe.github.io/Dynamic-Web-Applications/To-Do%20App/assets/todo%20app.gif)
 
 ## 🔧 Tech Stack
 
 - HTML
 - CSS
 - JavaScript
-- LocalStorage (for data persistence)
+- LocalStorage (for data store)
 
 
 
