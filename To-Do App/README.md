@@ -12,11 +12,11 @@ A simple and clean todo list application built with HTML, CSS, and JavaScript.
 
 ## :link:Web Page
 
-![Click Here](https://sandeepmothe.github.io/Dynamic-Web-Applications/To-Do%20App/To-Do-List.html)
+[Click Here](https://sandeepmothe.github.io/Dynamic-Web-Applications/To-Do%20App/To-Do-List.html)
 
 ## 📽️ Demo GIF
 
-![Todo App Demo](https://sandeepmothe.github.io/Dynamic-Web-Applications/To-Do%20App/assets/todo%20app.gif)
+![Todo App Demo](https://github.com/Sandeepmothe/Dynamic-Web-Applications/blob/main/To-Do%20App/assets/todo%20app.gif)
 
 ## 🔧 Tech Stack
 
