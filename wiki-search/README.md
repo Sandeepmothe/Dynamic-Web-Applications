@@ -1,7 +1,11 @@
 📘 Wikipedia Search App
 A simple web app that allows users to search Wikipedia articles using a clean interface. Built with HTML, CSS, JavaScript, and Bootstrap.
 
-🚀 Features
+🔗Demo
+[Click Here](https://sandeepmothe.github.io/Dynamic-Web-Applications/wiki-search/wi-ki%20search.html)
+
+## Features
+
 🔎 Search Wikipedia articles instantly
 
 ⌨️ Trigger search with Enter key or search button
