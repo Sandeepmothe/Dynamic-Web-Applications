@@ -133,3 +133,9 @@ h1 {
   cursor: not-allowed;
   box-shadow: none;
 }
+
+@media (max-width: 768px){
+  .todo-container{
+    max-width: 75%;
+  }
+}
